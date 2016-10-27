@@ -36,7 +36,6 @@ div {
 
 .btn-subtle:hover {
   background-color: #666;
-  border-color: #666;
 }
 
 .btn-ghost {
@@ -67,4 +66,7 @@ div {
 
 .btn-big {
   font-size: 1.5rem;
+}
+.btn-subtle{
+  border-color: transparent;
 }
