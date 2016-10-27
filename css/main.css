@@ -44,22 +44,27 @@ div {
   color: #000;
   border-color: #000;
 }
+
 .btn-ghost:hover {
   background-color: #666;
   border-color: #666;
 }
+
 .btn-warning {
   background-color: #f33;
   color: #fff;
   border-color: #f33;
 }
+
 .btn-warning:hover {
   background-color: #933;
   border-color: #933;
 }
+
 .btn-small {
   font-size: .875rem;
 }
+
 .btn-big {
   font-size: 1.5rem;
 }
